@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @slimisfast
-- 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning the basics.
+- 👋 Hi, I’m Aaron Miller (@slimisfast).
+- 👀 I’m interested in learning even more programming languages.
+- 🌱 I’m currently learning Java and React.
 - 💞️ I’m looking to collaborate on basic projects.
-- 📫 How to reach me: slimisfast@gmail.com
+- 📫 How to reach me: aaronwmiller86@gmail.com or slimisfast@gmail.com.
 
 <!---
 slimisfast/slimisfast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
